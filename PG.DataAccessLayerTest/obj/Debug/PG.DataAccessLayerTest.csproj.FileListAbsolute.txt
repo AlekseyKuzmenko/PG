@@ -1,0 +1,16 @@
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\PG.DataAccessLayerTest.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\PG.DataAccessLayerTest.pdb
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\PG.Common.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\PG.DataAccessLayer.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\MongoDB.Driver.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\MongoDB.Bson.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\PG.Common.pdb
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\PG.DataAccessLayer.pdb
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\MongoDB.Driver.xml
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\MongoDB.Bson.xml
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\obj\Debug\PG.DataAccessLayerTest.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\obj\Debug\PG.DataAccessLayerTest.dll
+C:\Users\Алексей\Documents\VS2015\Projects\PG\PG.DataAccessLayerTest\obj\Debug\PG.DataAccessLayerTest.pdb

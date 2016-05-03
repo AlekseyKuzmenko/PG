@@ -1,0 +1,12 @@
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\PG.DataAccessLayer.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\PG.DataAccessLayer.pdb
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\PG.Common.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\PG.Common.pdb
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\obj\Debug\PG.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\obj\Debug\PG.DataAccessLayer.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.DataAccessLayer\obj\Debug\PG.DataAccessLayer.pdb

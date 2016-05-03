@@ -1,0 +1,10 @@
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\bin\Debug\PG.Common.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\bin\Debug\PG.Common.pdb
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\bin\Debug\MongoDB.Bson.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\bin\Debug\MongoDB.Driver.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\bin\Debug\MongoDB.Bson.xml
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\bin\Debug\MongoDB.Driver.xml
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\obj\Debug\PG.Common.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\obj\Debug\PG.Common.dll
+C:\Users\Алексей\documents\VS2015\Projects\PG\PG.Common\obj\Debug\PG.Common.pdb
